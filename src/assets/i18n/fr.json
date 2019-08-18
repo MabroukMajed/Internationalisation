@@ -1,0 +1,7 @@
+{
+  "Title": "Exemple de traduction",
+  "Introduction": "Bonjour je m'appelle {{name}}, j'ai {{age}} ans.",
+  "Homepage": {
+    "TranslationContent": "Bonjour Monde"
+  }
+}
